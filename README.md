@@ -1,15 +1,15 @@
-![Cutiepii](https://telegra.ph/file/2e61aafdbc29d0205d980.png)
-# Cutiepii Robot 
+![ALICE ](https://telegra.ph/file/655a94dd9dac006eff5fb.jpg)
+# ALICE ROBOT
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-Cutiepii-red)](https://t.me/Cutiepii_Updates) [![Join Support!](https://img.shields.io/badge/Support%20Chat-Cutiepii-red)](https://t.me/Cutieppii_Support)
 
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Cutiepii suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Cutiepii Robot](https://t.me/Cutiepii_Robot).
+Can be found on telegram as [Alice  Robot](https://t.me/Animeweebs2).
 
-The Support group can be reached out to at [Cutiepii Support](https://t.me/Cutiepii_Support), where you can ask for help about [Cutiepii Robot](https://t.me/Cutiepii_Robot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [ALICE  Support](https://t.me/Animeweebs2), where you can ask for help about [Cutiepii Robot](https://t.me/Cutiepii_Robot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
-News channel as at [Cutiepii Updates](https://t.me/Cutiepii_Updates) 
+News channel as at [Alice  Updates](https://t.me/Animeweebs2) 
 
 
 ## Stats
@@ -61,12 +61,12 @@ from CutiepiiRobot.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 974650192  # your telegram ID
-    OWNER_USERNAME = "Wadiwala_Tech"  # your telegram username
+    OWNER_USERNAME = "『DC』ᵀᵉᵃᵐ★ᎳᎪᏒᏒᎥᎾᏒ★"  # your telegram username
     API_KEY = "your bot api key"  # your api key, as provided by the @botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     JOIN_LOGGER = '-1234567890' # some group chat that your bot is a member of
     USE_JOIN_LOGGER = True
-    DRAGONS = [18673980, 974650192]  # List of id's for users which have sudo access to the bot.
+    DRAGONS = [944337454 ]  # List of id's for users which have sudo access to the bot.
     LOAD = []
     NO_LOAD = ['translation']
 ```
