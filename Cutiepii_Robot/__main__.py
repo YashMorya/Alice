@@ -51,7 +51,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Welcome user: {}, , I am cutest bot: Cutiepii! 
+Welcome user: {}, , I am Alice ! 
 
 I am an Anime themed advance group management bot with a lot of Special Features.
 
@@ -79,7 +79,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/d31755c8e0245be16c4f5.png"
+SAITAMA_IMG = "https://telegra.ph/file/655a94dd9dac006eff5fb.jpg"
 CUTIEPINGIMG = "https://telegra.ph/file/ea42efe4fb0ccbb578fce.gif"
 
 
@@ -204,22 +204,22 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="Add Cutiepii to your group",
+                            text="Add Alice to your group",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
                      [                         
                        InlineKeyboardButton(
-                             text="Chat With Cutie Lovers",
-                             url="https://t.me/Hindi_K_Drama_1")
+                             text="Chat With Alice fans ",
+                             url="https://t.me/Animeweebs2")
                     ],
                      [
                          InlineKeyboardButton(
                              text="Support Chat",
-                             url=f"https://t.me/{SUPPORT_CHAT}"),
+                             url=f"https://t.me/Animeweebs2"{SUPPORT_CHAT}"),
                          InlineKeyboardButton(
                              text="Updates Channel",
-                             url="https://t.me/Techno_Ocean")
+                             url="https://t.me/https://t.me/Animeweebs2")
                   
                      ]]))
     else:
